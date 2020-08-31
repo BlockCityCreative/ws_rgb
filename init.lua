@@ -1,5 +1,5 @@
 minetest.register_node("ws_rgb:solid", {
-    description = "Plastic Box",
+    description = "solid node",
     tiles = {"rgb_solid.png"},
     is_ground_content = false,
     groups = {choppy=1, snappy=1, oddly_breakable_by_hand=1, ud_param2_colorable = 1},
